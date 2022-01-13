@@ -1,0 +1,37 @@
+.wrapper{
+    margin-top: 10px;
+}
+.wrapper .item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.wrapper .item input{
+    margin-right: 10px;
+    
+}
+.wrapper .item .text{
+    margin-right: 40px;
+}
+.wrapper .item .complete{
+    text-decoration: line-through;
+}
+.wrapper .item button{
+    border: none;
+    margin-right: 10px;
+}
+.wrapper .item .submit{
+    background: #F2BF27;
+    padding: 5px;
+    border-radius: 10px;
+}
+.wrapper .item .edit{
+    background: #F2BF27;
+    padding: 5px;
+    border-radius: 10px;
+}
+.wrapper .item .delete{
+    background: #D90404;
+    padding: 5px;
+    border-radius: 10px;
+}

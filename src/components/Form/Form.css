@@ -1,0 +1,15 @@
+.wrapper-form form input{
+    border: none;
+    margin-right: 20px;
+    padding: 5px;
+    border-radius: 20px;
+}
+.wrapper-form form button{
+    border: none;
+    background: #61F8BB;
+    padding: 10px;
+    border-radius: 30px;
+}
+.wrapper-form{
+    margin-bottom: 20px;
+}
